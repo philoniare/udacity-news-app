@@ -1,0 +1,1 @@
+Simple Android App accessing API with retrofit, parsing with gson and views with material design.
